@@ -1,0 +1,8 @@
+BT_DeepFool_sharpen_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 74.76635514018692%
+Precision: 0.7431192660550459,  Recall: 0.7570093457943925
+F1 Score: 0.7499999999999999
+

@@ -1,0 +1,120 @@
+
+(miniproject) C:\Users\SATYA\miniproject>python gp_detector.py --dataset CIFAR10 --attack JSMA_gb --num_data_in_class 30
+Using TensorFlow backend.
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:523: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:524: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:532: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+Detect JSMA_gb attack on CIFAR10 CNN model with 300 adversarial examples.
+
+===============Data Load================
+
+100%|███████████████████████████████████████████████| 9/9 [00:10<00:00,  1.22s/it]
+100%|███████████████████████████████████████████████| 9/9 [00:00<00:00, 19.53it/s]
+
+========Training Data Calculate=========
+
+100%|███████████████████████████████████████████| 155/155 [00:08<00:00, 17.56it/s]
+
+==========Test Data Calculate===========
+
+100%|█████████████████████████████████████████████| 11/11 [00:00<00:00, 22.55it/s]
+
+
+Iteration :  30
+
+=============Model Training==============
+
+44.6804931 seconds
+Accuracy: 77.27272727272727%
+
+
+(miniproject) C:\Users\SATYA\miniproject>python gp_detector.py --dataset CIFAR10 --attack JSMA_hist --num_data_in_class 30
+Using TensorFlow backend.
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:523: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:524: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:532: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+Detect JSMA_hist attack on CIFAR10 CNN model with 300 adversarial examples.
+
+===============Data Load================
+
+100%|███████████████████████████████████████████████| 9/9 [00:08<00:00,  1.08it/s]
+100%|███████████████████████████████████████████████| 9/9 [00:00<00:00, 18.57it/s]
+
+========Training Data Calculate=========
+
+100%|███████████████████████████████████████████| 155/155 [00:08<00:00, 18.47it/s]
+
+==========Test Data Calculate===========
+
+100%|█████████████████████████████████████████████| 11/11 [00:00<00:00, 23.17it/s]
+
+
+Iteration :  30
+
+=============Model Training==============
+
+81.9423275 seconds
+Accuracy: 77.27272727272727%
+
+
+(miniproject) C:\Users\SATYA\miniproject>
+(miniproject) C:\Users\SATYA\miniproject>
+(miniproject) C:\Users\SATYA\miniproject>
+(miniproject) C:\Users\SATYA\miniproject>
+(miniproject) C:\Users\SATYA\miniproject>python gp_detector.py --dataset CIFAR10 --attack JSMA_bi --num_data_in_class 30
+Using TensorFlow backend.
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:523: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:524: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+C:\Users\SATYA\.conda\envs\miniproject\lib\site-packages\tensorflow\python\framework\dtypes.py:532: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+Detect JSMA_bi attack on CIFAR10 CNN model with 300 adversarial examples.
+
+===============Data Load================
+
+100%|███████████████████████████████████████████████| 9/9 [00:10<00:00,  1.16s/it]
+100%|███████████████████████████████████████████████| 9/9 [00:00<00:00, 15.61it/s]
+
+========Training Data Calculate=========
+
+100%|███████████████████████████████████████████| 155/155 [00:08<00:00, 18.76it/s]
+
+==========Test Data Calculate===========
+
+100%|█████████████████████████████████████████████| 11/11 [00:00<00:00, 23.12it/s]
+
+
+Iteration :  30
+
+=============Model Training==============
+
+74.6753442 seconds
+Accuracy: 86.36363636363636%
+
+
+(miniproject) C:\Users\SATYA\miniproject>

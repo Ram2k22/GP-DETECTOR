@@ -1,0 +1,8 @@
+MNIST_JSMA_hist_300_Detector.txt
+Training data: 600
+Test data: 19092
+Iteration : 30
+Accuracy: 94.24890006285355%
+Precision: 0.9433249370277078,  Recall: 0.9415461973601509
+F1 Score: 0.942434727901856
+

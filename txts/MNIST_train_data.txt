@@ -1,0 +1,28 @@
+(miniproject) C:\Users\SATYA\miniproject>python train_model.py --dataset MNIST
+Using TensorFlow backend.
+Num train data: 60000
+Num test data: 10000
+x_train shape: (60000, 28, 28, 1)
+60000 train samples
+10000 test samples
+Train on 60000 samples, validate on 10000 samples
+Epoch 1/1
+
+59744/60000 [============================>.] - ETA: 1s - loss: 0.1821 - acc: 0.9442
+59776/60000 [============================>.] - ETA: 1s - loss: 0.1820 - acc: 0.9442
+59808/60000 [============================>.] - ETA: 1s - loss: 0.1820 - acc: 0.9443
+59840/60000 [============================>.] - ETA: 0s - loss: 0.1820 - acc: 0.9443
+59872/60000 [============================>.] - ETA: 0s - loss: 0.1819 - acc: 0.9443
+59904/60000 [============================>.] - ETA: 0s - loss: 0.1818 - acc: 0.9443
+59936/60000 [============================>.] - ETA: 0s - loss: 0.1818 - acc: 0.9443
+59968/60000 [============================>.] - ETA: 0s - loss: 0.1818 - acc: 0.9443
+
+
+60000/60000 [==============================] - 377s 6ms/step - loss: 0.1817 - acc: 0.9443 - val_loss: 0.0463 - val_acc: 0.9854
+
+Epoch 00001: val_acc improved from -inf to 0.98540, saving model to C:\Users\SATYA\miniproject\saved_models\MNIST_model.h5
+Test loss: 0.04632469047543127
+Test accuracy: 0.9854
+
+(miniproject) C:\Users\SATYA\miniproject>
+

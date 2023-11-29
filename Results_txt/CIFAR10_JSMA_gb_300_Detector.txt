@@ -1,0 +1,8 @@
+CIFAR10_JSMA_gb_300_Detector.txt
+Training data: 600
+Test data: 8722
+Iteration : 30
+Accuracy: 67.79408392570512%
+Precision: 0.6698030634573304,  Recall: 0.7019032332033938
+F1 Score: 0.6854775501063711
+

@@ -1,0 +1,8 @@
+MNIST_FGSM_e0.1_bi_300_Detector.txt
+Training data: 600
+Test data: 1672
+Iteration : 30
+Accuracy: 82.53588516746412%
+Precision: 0.8042505592841164,  Recall: 0.8600478468899522
+F1 Score: 0.8312138728323699
+

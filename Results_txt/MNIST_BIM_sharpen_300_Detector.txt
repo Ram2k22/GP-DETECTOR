@@ -1,0 +1,8 @@
+MNIST_BIM_sharpen_300_Detector.txt
+Training data: 600
+Test data: 2902
+Iteration : 30
+Accuracy: 77.0158511371468%
+Precision: 0.7493638676844784,  Recall: 0.8118538938662991
+F1 Score: 0.7793582533906714
+

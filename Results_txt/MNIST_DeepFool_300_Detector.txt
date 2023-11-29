@@ -1,0 +1,8 @@
+MNIST_DeepFool_300_Detector.txt
+Training data: 600
+Test data: 19092
+Iteration : 30
+Accuracy: 94.08652838885398%
+Precision: 0.950058817238798,  Recall: 0.9306515818143725
+F1 Score: 0.9402550669418426
+

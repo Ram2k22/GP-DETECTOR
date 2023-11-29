@@ -1,0 +1,8 @@
+CIFAR10_BIM_e1_hist_300_Detector.txt
+Training data: 566
+Test data: 4350
+Iteration : 30
+Accuracy: 73.93103448275862%
+Precision: 0.7283896445809566,  Recall: 0.7632183908045977
+F1 Score: 0.7453973955994613
+

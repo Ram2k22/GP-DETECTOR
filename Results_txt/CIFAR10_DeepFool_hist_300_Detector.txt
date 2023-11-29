@@ -1,0 +1,8 @@
+CIFAR10_DeepFool_hist_300_Detector.txt
+Training data: 566
+Test data: 8928
+Iteration : 30
+Accuracy: 73.61111111111111%
+Precision: 0.7487022180273714,  Recall: 0.7107974910394266
+F1 Score: 0.7292576419213974
+

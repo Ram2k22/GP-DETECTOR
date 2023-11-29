@@ -1,0 +1,8 @@
+CIFAR10_JSMA_sharpen_300_Detector.txt
+Training data: 600
+Test data: 8722
+Iteration : 30
+Accuracy: 83.73079568906215%
+Precision: 0.7998369343660824,  Recall: 0.8997936253152946
+F1 Score: 0.8468760116542571
+

@@ -1,0 +1,5 @@
+BT_DeepFool_Classifier
+saved_class_idx: [20 58 92 47]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 21.573604060913706%
+

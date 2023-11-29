@@ -1,0 +1,8 @@
+BT_FGSM_ahe_300_Detector.txt
+Training data: 190
+Test data: 48
+Iteration : 10
+Accuracy: 85.41666666666666%
+Precision: 0.8148148148148148,  Recall: 0.9166666666666666
+F1 Score: 0.8627450980392156
+

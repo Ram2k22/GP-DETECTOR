@@ -1,0 +1,8 @@
+BT_DeepFool_gb_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 89.7196261682243%
+Precision: 0.8695652173913043,  Recall: 0.9345794392523364
+F1 Score: 0.9009009009009009
+

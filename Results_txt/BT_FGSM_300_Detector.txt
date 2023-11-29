@@ -1,0 +1,8 @@
+BT_FGSM_300_Detector.txt
+Training data: 190
+Test data: 48
+Iteration : 10
+Accuracy: 83.33333333333334%
+Precision: 0.9,  Recall: 0.75
+F1 Score: 0.8181818181818182
+

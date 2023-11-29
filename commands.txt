@@ -1,0 +1,26 @@
+-------- filter apply on dataset -----------------
+python filter.py --dataset MNIST --enhance hist
+
+-------- adversial images on the images -------------
+python advimage.py --dataset MNIST
+
+-------- adversial images plot -------------- 
+python advimage_plot.py --dataset MNIST
+
+-------- adversial on fikterd images --------------
+python filteradv.py --dataset MNIST
+
+-------- predict the results --------------------
+python predict.py --dataset MNIST --attack DeepFool --enhance Histogram
+
+
+python train_model.py --dataset MNIST/CIFAR10
+
+python attack.py --dataste MNIS/C --attack BIM/FGSM/DeepFool/JSMA
+
+python gp_detector.py --dataset --attack BIM_gb/hist/ahe/bi/mb/sharpen
+
+
+main SOurcce 
+
+https://github.com/pod3275/GP-based-Adversarial-Detection

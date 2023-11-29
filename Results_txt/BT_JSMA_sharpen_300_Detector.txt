@@ -1,0 +1,8 @@
+BT_JSMA_sharpen_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 71.49532710280374%
+Precision: 0.6854838709677419,  Recall: 0.794392523364486
+F1 Score: 0.7359307359307359
+

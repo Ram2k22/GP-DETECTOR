@@ -1,0 +1,8 @@
+CIFAR10_FGSM_e1_hist_300_Detector.txt
+Training data: 566
+Test data: 3824
+Iteration : 30
+Accuracy: 77.9550209205021%
+Precision: 0.7655240933929458,  Recall: 0.8059623430962343
+F1 Score: 0.7852229299363057
+

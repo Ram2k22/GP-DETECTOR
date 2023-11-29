@@ -1,0 +1,41 @@
+On MNIST dataset
+
+GP_based
+-------------------------------------------------------------
+
+FGSM_e1       Accuracy: 79.36602870813397%
+BIM_e1        Accuracy: 81.49552033080634%
+JSMA          Accuracy: 95.66834276136602%
+DeepFool      Accuracy: 94.62078357427195%
+
+
+Bilateral 
+-----------------------------------------------------------------
+
+FGSM_e1_bi     Accuracy: 81.22009569377991%
+BIM_e1_bi      Accuracy: 81.77119228118539%
+JSMA_bi        Accuracy: 96.15021998742928%
+DeepFool_bi    Accuracy: 94.42174732872407%
+
+
+Gausian Blur
+-------------------------------------------------------------
+
+FGSM_e1_gb    Accuracy: 86.1244019138756%
+BIM_e1_gb     Accuracy: 88.1461061337009%
+JSMA_gb       Accuracy: 95.8097632516237%
+DeepFool_gb   Accuracy: 95.98784831342971%
+
+
+Histogram
+-------------------------------------------------------------
+
+FGSM_e1_hist    Accuracy: 96.83014354066985%
+BIM_e1_hist     Accuracy: 93.4183321847002%
+JSMA_hist       Accuracy: 99.09909909909909%
+DeepFool_hist   Accuracy: 98.44961240310077%
+
+
+
+
+

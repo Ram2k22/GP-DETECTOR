@@ -1,0 +1,26 @@
+BT_FGSM_Classifier
+Epsilon: 1
+saved_class_idx: [ 0 14  2  4]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 57.360406091370564%
+
+Epsilon: 2
+saved_class_idx: [ 3 26 19 16]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 48.223350253807105%
+
+Epsilon: 3
+saved_class_idx: [ 3 32 22 18]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 50.0%
+
+Epsilon: 4
+saved_class_idx: [ 3 35 28 24]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 47.71573604060914%
+
+Epsilon: 5
+saved_class_idx: [ 5 42 40 32]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 41.878172588832484%
+

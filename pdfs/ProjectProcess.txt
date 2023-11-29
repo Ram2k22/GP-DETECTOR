@@ -1,0 +1,21 @@
+1. Install Anaconda and set path using environment variables
+
+2. Create virtual environment by using following commands
+	a)conda create --name <env_name> python=<version>
+	b)conda activate <env_name>
+	c)conda deactivate (If you want to deactivate)
+
+3. Next clone the github repository and install all the libraries which are given in requirements.txt file
+
+	Note: You got this error while installing cleverhans (ERROR: Failed building wheel for dm-tree)
+	This error usually occurs when you are trying to install a Python package that requires a C/C++ compiler
+	 to build and the necessary compiler is not installed in your system.
+	
+		To resolve this problem use the following command (conda install -c conda-forge dm-tree)
+
+4. Train the datasets.
+
+5. Install h5py(version=2.10.0) and keras(version=2.2.5)
+
+6. location = os.getcwd() + '/Data/' + dataset   ----->   location = os.getcwd() + '/adv_data/' + dataset  (in gp_detector.py)
+

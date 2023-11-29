@@ -1,0 +1,8 @@
+BT_BIM_gb_300_Detector.txt
+Training data: 216
+Test data: 160
+Iteration : 10
+Accuracy: 88.125%
+Precision: 0.8674698795180723,  Recall: 0.9
+F1 Score: 0.8834355828220859
+

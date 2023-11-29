@@ -1,0 +1,8 @@
+MNIST_FGSM_ahe_300_Detector.txt
+Training data: 600
+Test data: 1672
+Iteration : 30
+Accuracy: 85.16746411483254%
+Precision: 0.8333333333333334,  Recall: 0.8791866028708134
+F1 Score: 0.8556461001164145
+

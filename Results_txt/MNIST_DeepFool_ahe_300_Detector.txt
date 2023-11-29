@@ -1,0 +1,8 @@
+MNIST_DeepFool_ahe_300_Detector.txt
+Training data: 600
+Test data: 19092
+Iteration : 30
+Accuracy: 95.99308610936518%
+Precision: 0.9559663516460691,  Recall: 0.9642782317200922
+F1 Score: 0.9601043024771838
+

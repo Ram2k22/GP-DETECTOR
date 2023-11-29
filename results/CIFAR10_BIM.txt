@@ -1,0 +1,12 @@
+CIFAR10_BIM_Classifier
+Epsilon: 1
+saved_class_idx: [385 276 376  13 152  99 248 272 386 251]
+Origin accuracy: 47.47%
+Adv accuracy: 37.18%
+
+Epsilon: 2
+saved_class_idx: [469 598 526  13 161 110 601 399 704 298]
+Origin accuracy: 47.47%
+Adv accuracy: 24.39%
+
+Epsilon: 3

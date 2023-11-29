@@ -1,0 +1,8 @@
+CIFAR10_FGSM_ahe_300_Detector.txt
+Training data: 566
+Test data: 3824
+Iteration : 30
+Accuracy: 50.39225941422594%
+Precision: 0.5020199299757608,  Recall: 0.9748953974895398
+F1 Score: 0.6627555555555555
+

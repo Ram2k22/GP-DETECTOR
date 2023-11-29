@@ -1,0 +1,8 @@
+BT_BIM_sharpen_300_Detector.txt
+Training data: 216
+Test data: 160
+Iteration : 10
+Accuracy: 78.75%
+Precision: 0.7613636363636364,  Recall: 0.8375
+F1 Score: 0.7976190476190477
+

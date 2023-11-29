@@ -1,0 +1,8 @@
+BT_DeepFool_ahe_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 79.43925233644859%
+Precision: 0.7603305785123967,  Recall: 0.8598130841121495
+F1 Score: 0.8070175438596491
+

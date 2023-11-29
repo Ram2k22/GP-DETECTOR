@@ -1,0 +1,8 @@
+MNIST_FGSM_e0.1_hist_300_Detector.txt
+Training data: 600
+Test data: 1672
+Iteration : 30
+Accuracy: 81.75837320574163%
+Precision: 0.7920792079207921,  Recall: 0.861244019138756
+F1 Score: 0.8252148997134671
+

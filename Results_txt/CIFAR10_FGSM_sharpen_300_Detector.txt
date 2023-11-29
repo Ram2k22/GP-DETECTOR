@@ -1,0 +1,8 @@
+CIFAR10_FGSM_sharpen_300_Detector.txt
+Training data: 566
+Test data: 3824
+Iteration : 30
+Accuracy: 77.71966527196653%
+Precision: 0.7476635514018691,  Recall: 0.8368200836820083
+F1 Score: 0.7897334649555774
+

@@ -1,0 +1,43 @@
+On CIFAR10 dataset
+
+
+GP Based
+-----------------------------------------------------------------
+
+FGSM_e1       Accuracy: 67.67782426778243%
+BIM_e1        Accuracy: 65.3103448275862%
+JSMA          Accuracy: 86.36363636363636%
+DeepFool      Accuracy: 93.54838709677419%
+
+
+
+
+Bilateral 
+-----------------------------------------------------------------
+
+FGSM_e1_bi     Accuracy: 84.30962343096235%
+BIM_e1_bi      Accuracy: 82.13793103448276%
+JSMA_bi        Accuracy: 86.36363636363636%
+DeepFool_bi    Accuracy: 82.44847670250897%
+
+
+Gausian Blur
+-------------------------------------------------------------
+
+FGSM_e1_gb    Accuracy: 77.09205020920503%
+BIM_e1_gb     Accuracy: 74.80459770114942%
+JSMA_gb       Accuracy: 77.27272727272727%
+DeepFool_gb   Accuracy: 73.73431899641577%
+
+
+Histogram
+-------------------------------------------------------------
+
+FGSM_e1_hist    Accuracy: 83.4989539748954%
+BIM_e1_hist     Accuracy: 82.55172413793103%
+JSMA_hist       Accuracy: 77.27272727272727%
+DeepFool_hist   Accuracy: 81.08198924731182%
+
+
+
+

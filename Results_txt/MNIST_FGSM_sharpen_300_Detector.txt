@@ -1,0 +1,8 @@
+MNIST_FGSM_sharpen_300_Detector.txt
+Training data: 600
+Test data: 1672
+Iteration : 30
+Accuracy: 74.04306220095694%
+Precision: 0.7175324675324676,  Recall: 0.7930622009569378
+F1 Score: 0.753409090909091
+

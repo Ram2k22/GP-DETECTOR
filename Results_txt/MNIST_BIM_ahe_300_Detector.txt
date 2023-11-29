@@ -1,0 +1,8 @@
+MNIST_BIM_ahe_300_Detector.txt
+Training data: 600
+Test data: 2902
+Iteration : 30
+Accuracy: 81.42660234321157%
+Precision: 0.7740384615384616,  Recall: 0.8876636802205375
+F1 Score: 0.8269662921348314
+

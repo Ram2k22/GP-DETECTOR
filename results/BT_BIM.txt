@@ -1,0 +1,51 @@
+BT_BIM_Classifier
+Epsilon: 1
+saved_class_idx: [ 0 14  3  4]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 56.852791878172596%
+
+Epsilon: 2
+saved_class_idx: [ 3 26 19 16]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 48.223350253807105%
+
+Epsilon: 3
+saved_class_idx: [ 3 32 22 18]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 50.0%
+
+Epsilon: 4
+saved_class_idx: [ 3 38 31 26]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 45.93908629441624%
+
+Epsilon: 5
+saved_class_idx: [ 5 45 46 32]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 39.59390862944163%
+
+Epsilon: 6
+saved_class_idx: [ 8 50 48 35]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 37.309644670050766%
+
+Epsilon: 7
+saved_class_idx: [14 50 50 41]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 33.24873096446701%
+
+Epsilon: 8
+saved_class_idx: [16 51 54 45]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 30.710659898477154%
+
+Epsilon: 9
+saved_class_idx: [17 53 66 47]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 26.903553299492383%
+
+Epsilon: 10
+saved_class_idx: [18 56 67 47]
+Origin accuracy: 55.0761421319797%
+Adv accuracy: 25.63451776649746%
+

@@ -1,0 +1,8 @@
+MNIST_JSMA_sharpen_300_Detector.txt
+Training data: 600
+Test data: 19092
+Iteration : 30
+Accuracy: 93.38990152943641%
+Precision: 0.9361836562763268,  Recall: 0.931280117326629
+F1 Score: 0.9337254490074572
+

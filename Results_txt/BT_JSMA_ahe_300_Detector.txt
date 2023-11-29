@@ -1,0 +1,8 @@
+BT_JSMA_ahe_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 75.23364485981308%
+Precision: 0.7045454545454546,  Recall: 0.8691588785046729
+F1 Score: 0.7782426778242678
+

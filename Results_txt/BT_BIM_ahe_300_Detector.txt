@@ -1,0 +1,8 @@
+BT_BIM_ahe_300_Detector.txt
+Training data: 216
+Test data: 160
+Iteration : 10
+Accuracy: 80.0%
+Precision: 0.7857142857142857,  Recall: 0.825
+F1 Score: 0.8048780487804876
+

@@ -1,0 +1,8 @@
+BT_FGSM_sharpen_300_Detector.txt
+Training data: 190
+Test data: 48
+Iteration : 10
+Accuracy: 83.33333333333334%
+Precision: 0.8636363636363636,  Recall: 0.7916666666666666
+F1 Score: 0.8260869565217391
+

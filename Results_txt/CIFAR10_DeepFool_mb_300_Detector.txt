@@ -1,0 +1,8 @@
+CIFAR10_DeepFool_mb_300_Detector.txt
+Training data: 566
+Test data: 8928
+Iteration : 30
+Accuracy: 71.7181899641577%
+Precision: 0.6969327645744465,  Recall: 0.7685931899641577
+F1 Score: 0.731010972621711
+

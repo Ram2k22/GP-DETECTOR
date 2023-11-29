@@ -1,0 +1,8 @@
+MNIST_BIM_e0.1_gb_300_Detector.txt
+Training data: 600
+Test data: 2902
+Iteration : 30
+Accuracy: 88.18056512749828%
+Precision: 0.8738191632928475,  Recall: 0.892487939352171
+F1 Score: 0.883054892601432
+

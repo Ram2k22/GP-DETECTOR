@@ -1,0 +1,51 @@
+CIFAR10_FGSM_Classifier
+Epsilon: 1
+saved_class_idx: [352 246 336  13 143  87 211 254 321 232]
+Origin accuracy: 47.47%
+Adv accuracy: 39.24%
+
+Epsilon: 2
+saved_class_idx: [444 461 480  13 156 108 443 363 588 288]
+Origin accuracy: 47.47%
+Adv accuracy: 29.42%
+
+Epsilon: 3
+saved_class_idx: [470 610 529  13 159 110 588 422 713 300]
+Origin accuracy: 47.47%
+Adv accuracy: 23.64%
+
+Epsilon: 4
+saved_class_idx: [480 712 539  13 159 110 650 445 752 305]
+Origin accuracy: 47.47%
+Adv accuracy: 20.76%
+
+Epsilon: 5
+saved_class_idx: [480 766 548  13 157 110 684 461 776 306]
+Origin accuracy: 47.47%
+Adv accuracy: 18.95%
+
+Epsilon: 6
+saved_class_idx: [483 793 553  13 157 110 683 469 784 307]
+Origin accuracy: 47.47%
+Adv accuracy: 17.849999999999998%
+
+Epsilon: 7
+saved_class_idx: [480 805 554  13 158 110 658 472 789 307]
+Origin accuracy: 47.47%
+Adv accuracy: 17.21%
+
+Epsilon: 8
+saved_class_idx: [482 819 555  13 158 110 629 473 793 308]
+Origin accuracy: 47.47%
+Adv accuracy: 16.55%
+
+Epsilon: 9
+saved_class_idx: [481 823 551  13 159 110 579 474 793 307]
+Origin accuracy: 47.47%
+Adv accuracy: 16.220000000000002%
+
+Epsilon: 10
+saved_class_idx: [477 831 550  13 159 110 547 473 797 308]
+Origin accuracy: 47.47%
+Adv accuracy: 15.58%
+

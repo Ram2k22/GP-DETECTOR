@@ -1,0 +1,8 @@
+MNIST_DeepFool_sharpen_300_Detector.txt
+Training data: 600
+Test data: 19092
+Iteration : 30
+Accuracy: 90.18437041692856%
+Precision: 0.9000834376303714,  Recall: 0.9040435784621831
+F1 Score: 0.9020591617016829
+

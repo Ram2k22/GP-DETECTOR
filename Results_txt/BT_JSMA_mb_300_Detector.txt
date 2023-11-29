@@ -1,0 +1,8 @@
+BT_JSMA_mb_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 80.8411214953271%
+Precision: 0.8113207547169812,  Recall: 0.8037383177570093
+F1 Score: 0.807511737089202
+

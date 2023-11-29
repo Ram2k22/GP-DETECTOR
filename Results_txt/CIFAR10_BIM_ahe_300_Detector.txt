@@ -1,0 +1,8 @@
+CIFAR10_BIM_ahe_300_Detector.txt
+Training data: 566
+Test data: 4350
+Iteration : 30
+Accuracy: 60.64367816091954%
+Precision: 0.5666570688165851,  Recall: 0.9048275862068965
+F1 Score: 0.6968838526912181
+

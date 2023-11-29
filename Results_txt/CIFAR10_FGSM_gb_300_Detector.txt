@@ -1,0 +1,8 @@
+CIFAR10_FGSM_e1_gb_300_Detector.txt
+Training data: 566
+Test data: 3824
+Iteration : 30
+Accuracy: 75.57531380753139%
+Precision: 0.7394711067580804,  Recall: 0.7897489539748954
+F1 Score: 0.7637835103692463
+

@@ -1,0 +1,8 @@
+CIFAR10_BIM_mb_300_Detector.txt
+Training data: 566
+Test data: 4350
+Iteration : 30
+Accuracy: 69.86206896551724%
+Precision: 0.6674418604651163,  Recall: 0.7917241379310345
+F1 Score: 0.7242902208201893
+

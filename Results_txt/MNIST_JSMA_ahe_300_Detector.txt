@@ -1,0 +1,8 @@
+MNIST_JSMA_ahe_300_Detector.txt
+Training data: 600
+Test data: 19092
+Iteration : 30
+Accuracy: 96.7839932956212%
+Precision: 0.9699074074074074,  Recall: 0.9656400586633145
+F1 Score: 0.9677690288713912
+

@@ -1,0 +1,8 @@
+CIFAR10_BIM_sharpen_300_Detector.txt
+Training data: 566
+Test data: 4350
+Iteration : 30
+Accuracy: 78.27586206896552%
+Precision: 0.7599323753169906,  Recall: 0.8266666666666667
+F1 Score: 0.7918960581369743
+

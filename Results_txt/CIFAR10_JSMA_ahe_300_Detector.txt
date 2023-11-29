@@ -1,0 +1,8 @@
+CIFAR10_JSMA_ahe_300_Detector.txt
+Training data: 600
+Test data: 8722
+Iteration : 30
+Accuracy: 53.84086218757166%
+Precision: 0.5205799238235655,  Recall: 0.9715661545517084
+F1 Score: 0.6779200000000001
+

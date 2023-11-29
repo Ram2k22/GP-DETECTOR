@@ -1,0 +1,8 @@
+BT_DeepFool_hist_300_Detector.txt
+Training data: 220
+Test data: 214
+Iteration : 10
+Accuracy: 73.83177570093457%
+Precision: 0.6711409395973155,  Recall: 0.9345794392523364
+F1 Score: 0.78125
+
